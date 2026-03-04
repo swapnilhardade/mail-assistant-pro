@@ -1,0 +1,26 @@
+############################
+# React Frontend
+############################
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env
+
+############################
+# Spring Boot Backend
+############################
+backend/target/
+backend/*.log
+backend/.env
+
+############################
+# IDE Files
+############################
+.idea/
+.vscode/
+
+############################
+# OS Files
+############################
+.DS_Store
+Thumbs.db
